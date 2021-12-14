@@ -1,5 +1,5 @@
 # Oxidation Resistant MPEAs
-## Files in Folder
+## Supplementary Information Files
 #### SI_doc.docx - discussion of UMAP plot construction and pre-oxidation candidate alloy microstructures
 #### SI_doc_figures.pptx - figures that correspond to SI_doc.docx
 #### all_data_noCB.csv –literature dataset file formatted and used for training and testing; carbon and boron compositions were removed. This dataset has 4 repeat entries that were not discovered until after all experiments were done. This original data file is kept to account for how the current model used was created.
