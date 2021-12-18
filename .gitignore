@@ -1,5 +1,7 @@
 # additional folders
 .idea/
+Figures_Out/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
