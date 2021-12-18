@@ -9,4 +9,4 @@
 #### interactive_visualization.ipynb – jupyter notebook used to create UMAP plot
 #### Table_S1.csv – literature dataset with a reference to each entry
 #### Table_S2.csv – data simulated with Thermo-Calc and ML model for all new compositions
-#### additional_figures.ipynb – jupyter notebook used to create remaining plots
+
